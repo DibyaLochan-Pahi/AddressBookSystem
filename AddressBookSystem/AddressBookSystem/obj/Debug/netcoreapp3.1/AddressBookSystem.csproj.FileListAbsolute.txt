@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.exe
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.deps.json
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.runtimeconfig.json
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.runtimeconfig.dev.json
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.dll
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.pdb
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.AssemblyInfo.cs
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.dll
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.pdb
+C:\Users\hp\Desktop\AddressBookUC\New folder\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.genruntimeconfig.cache
